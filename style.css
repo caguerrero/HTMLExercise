@@ -35,3 +35,8 @@ td {
 tr:nth-child(even) td {
     background-color: rgb(209, 192, 192);
 }
+
+footer{
+    padding: 2px;
+    background-color: DarkSalmon;
+}
